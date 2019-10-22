@@ -1,0 +1,40 @@
+*     {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+	    
+		    div {
+			width: 70%;
+			margin: auto;
+		        }
+		      p {
+			font-size: 20px;
+			text-align: center;
+			font-family: 'Play', sans-serif;
+            }
+         h1 {font-family: 'Press Start 2P', cursive;
+            color:#008B8B;
+            text-align: center;
+            font-size: 19px;
+
+            }
+        	a {  
+        	 	font-size: 19px;
+        	 	color:#008B8B;
+        	 	text-decoration: none;
+        	 	border-bottom: 3px double brown;
+        	 	border-left: 3px double brown;
+        	 	border-right: 3px double brown;
+        	 	padding: 3px;
+
+
+
+            }
+
+
+    a:hover {
+              	color: brown;
+              	border-top: red;
+
+            }
